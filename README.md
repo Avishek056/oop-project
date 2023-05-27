@@ -39,7 +39,7 @@ many more
 
 Contact:
 
-Name: Avishek Dbnath
+Name: Avishek Debnath
 Roll: 2007056
 Section: A 
 Year: 2nd
